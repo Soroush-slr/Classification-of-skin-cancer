@@ -16,5 +16,8 @@ Train, Validation (Development), Test, implement the following category models. 
 - Logistic Regression
 - Neural Network
 
+Results:
+
+Convolutional neural network (5_class): 
 
 
